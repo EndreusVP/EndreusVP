@@ -34,9 +34,6 @@
 <br/>
 
 ### ESTUDANDO:
-<img align="left" width="50px" style="padding-right: 10px;" title="javascript" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" width="50px" style="padding-right: 10px;" title="mysql" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
-<img align="left" width="50px" style="padding-right: 10px;" title="java" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" width="50px" style="padding-right: 10px;" title="python" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="50px" style="padding-right: 10px;" title="react" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <br/>
